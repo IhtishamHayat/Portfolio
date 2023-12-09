@@ -12,10 +12,10 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import pakeeza from "./assets/images/projects/pakeeza.png";
-import social from "./assets/images/projects/social.png";
-import creative from "./assets/images/projects/creative.png";
-import person from "./assets/images/projects/person.png";
+import pakeezaImage from "./assets/images/Projects/pakeeza.png";
+import socialImage from "./assets/images/Projects/social.png";
+import creativeImage from "./assets/images/Projects/creative.png";
+import personImage from "./assets/images/Projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
 import avatar2 from "./assets/images/Testimonials/avatar2.png";
@@ -137,19 +137,19 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
-    image: person_project,
+    image: personImage,
     project_content: [
       {
         title: "Electronics Website",
-        image: project1,
+        image: pakeezaImage,
       },
       {
         title: "Social Media web",
-        image: project2,
+        image: socialImage,
       },
       {
         title: "Creative Website",
-        image: project3,
+        image: creativeImage,
       },
     ],
   },
