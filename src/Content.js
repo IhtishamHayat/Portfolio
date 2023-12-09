@@ -187,7 +187,7 @@ export const content = {
     title: "Hire Me",
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
-    image2: Hireme_person2,
+    image2: Hireme_person,
     para: "Bridging the gap between front-end finesse and back-end brilliance, I thrive on turning complex challenges into elegant solutions, creating robust and user-centric applications that redefine digital excellence.",
     btnText: "Hire Me",
   },
