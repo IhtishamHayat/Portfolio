@@ -32,7 +32,7 @@ const App = () => {
       <Contact />
       <footer className="p-3 text-center">
         <h6 className="mb-3">Ihtisham Hussain</h6>
-        <p>heythereahti © All CopyRights Reserved 2023</p>
+        <p>Ihtisham Hayat © All CopyRights Reserved 2023</p>
       </footer>
     </div>
   );
